@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Self Sagar Narkhede Happy To See You Here 
+### I'm Sagar Narkhede Happy To See You Here 
 
 <!--
 **sagarnarkhede/sagarnarkhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
