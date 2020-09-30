@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Sagar Narkhede Happy To See You Here 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 
 
 <!--
