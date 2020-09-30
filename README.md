@@ -9,7 +9,7 @@
 - Robotics.
 - Programmer.
 - 3D designer
-- 
+
 <!--- I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
 - Author of 3 International Research Paper -  **Publisher** - *IEEE and Springer*
