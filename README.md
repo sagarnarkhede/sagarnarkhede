@@ -24,7 +24,9 @@
 - ***Worked with :-*** Arduino (Nano, Uno, Mega), Atmega2560, Atmega328, 8051, AVR based microcontrollers, Sensors, Actuators.
 - ***3D Knowledge :-*** 3D Modelling, 3D Animation in Blender, 3D KeyFrame Animation in Blender 2.82a, Augmented Reality in Unity
 - ***Software’s :-*** Python 3.8, Blender 2.82a, UPBGE 0.3 Alpha, Unity, Autodesk fusion 360, Autodesk Eagle, Atmel Studio 7, kill, Proteus, V-REP,Visual studio, Arduino IDE, PicsArt, Vs code etc.
-*Thanks for reading it. Happy To See You Here.*
+
+
+**Thanks for reading it. Happy To See You Here.*
 <!--
 **Tools**
 - TensorFlow
