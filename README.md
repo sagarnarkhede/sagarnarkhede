@@ -3,7 +3,7 @@
 ### I'm [Sagar Narkhede](https://www.linkedin.com/in/sagar-narkhede-5bb944195/) :smiley:
 
 - **BATCH 2020** - *Impacted by COVID-19* :mask:
-- Bachelor of Engineering In Electronic And Telecommunication
+- Bachelor of Engineering In Electronic And Telecommunication 
 - I'm looking forward for job opportunities.
 - 2 Time National Finalist and Awardee in [eYantra Robotics Competition](https://e-yantra.org/eyrc).
 - Robotics.
@@ -19,7 +19,7 @@
 - -->
 
 **Technical Skills :--**
-- ***Programming in :-*** C, Python (Flask , Django , Tkinter GUI etc), Assembly, Arduino, Embedded C, Ladder programming for PLC, HTML, CSS, LaTex.
+- ***Programming in :-*** C, C++(OOP), Python (Flask , Django , Tkinter GUI etc), Assembly, Arduino, Embedded C, Ladder programming for PLC, HTML, CSS, LaTex.
 - ***Knowledge of :-*** PCB Designing, PCB etching, Circuit Building, Circuits Soldering, Firebird V, Spark V, Arduino.
 - ***Worked with :-*** Arduino (Nano, Uno, Mega), Atmega2560, Atmega328, 8051, AVR based microcontrollers, Sensors, Actuators.
 - ***3D Knowledge :-*** 3D Modelling, 3D Animation in Blender, 3D KeyFrame Animation in Blender 2.82a, Augmented Reality in Unity
