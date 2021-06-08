@@ -6,6 +6,7 @@
 - Bachelor of Engineering In Electronic And Telecommunication 
 - I'm looking forward for job opportunities.
 - 2 Time National Finalist and Awardee in [eYantra Robotics Competition](https://e-yantra.org/eyrc).
+- 5 ⭐ and Gold 🥇 Badge in Java [HackerRank](https://www.hackerrank.com/sagar_hakkr?hr_r=1c).
 - Web Designing
 - Robotics.
 - Programmer.
