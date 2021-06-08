@@ -19,7 +19,8 @@
 - -->
 
 **Technical Skills :--**
-- ***Programming in :-*** C, C++(OOP), Python (Flask , Django , Tkinter GUI etc), Assembly, Arduino, Embedded C, Ladder programming for PLC, HTML, CSS, LaTex.
+- ***Programming in :-*** C, C++(OOP), Python ,Java , Assembly, Arduino, Embedded C, Ladder programming for PLC, LaTex.
+- ***Web Technology :-***  Angular, Node js, Java Script, HTML, CSS, Bootstrap, SQL, PLSQL.
 - ***Knowledge of :-*** PCB Designing, PCB etching, Circuit Building, Circuits Soldering, Firebird V, Spark V, Arduino.
 - ***Worked with :-*** Arduino (Nano, Uno, Mega), Atmega2560, Atmega328, 8051, AVR based microcontrollers, Sensors, Actuators.
 - ***3D Knowledge :-*** 3D Modelling, 3D Animation in Blender, 3D KeyFrame Animation in Blender 2.82a, Augmented Reality in Unity
